@@ -4,6 +4,7 @@
 
 # Step#2: Import Libraries 
 [ import pennylane as qml
+
  from pennylane import numpy as np]
 
 
