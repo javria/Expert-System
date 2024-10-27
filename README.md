@@ -64,6 +64,9 @@ Prediction Results based on Trained Model
 # Citation
 Amin, Javeria, Muhammad Almas Anjum, Senka Krivic, and Muhammad Irfan Sharif. "Segmentation and classification of lymphoblastic leukaemia using quantum neural network." Expert Systems (2022): e13225.
 
+
+# Please note that the complete implementation code and a screen recording are also provided for better understanding and clarity. You can use them to reproduce the results
+
 # When using this code to reproduce the results, please cite this paper in your work
 
 
