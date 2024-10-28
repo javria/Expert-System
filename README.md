@@ -59,7 +59,7 @@ torch.save(model-hybrid.state_dict(), model_path)
 print(f'Model saved to {model-path}')
 Prediction Results based on Trained Model
 
-# Datasets: Publicaly Available ALL-IDB1, ALL-IDB2, resize-WBC Benchmark Datasets are available at this Link ["https://www.kaggle.com/datasets/javeria/lymphoblastic-leukemia"]
+# Datasets: Publicaly Available ALL-IDB1, ALL-IDB2, resize-WBC Benchmark Datasets are available at this Link ["https://www.kaggle.com/datasets/javeria/lymphoblastic-leukemia-article"]
 
 # Citation
 Amin, Javeria, Muhammad Almas Anjum, Senka Krivic, and Muhammad Irfan Sharif. "Segmentation and classification of lymphoblastic leukaemia using quantum neural network." Expert Systems (2022): e13225.
